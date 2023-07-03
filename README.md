@@ -2,7 +2,7 @@
 
 ### 🥚주니어 프론트엔드 개발자 정유석입니다 !🥚  
 
-### 📝 노션 이력서 (https://gainful-shawl-1b9.notion.site/mahwin-6d67ebacacc241e08b7e42b19dc8e9ed)
+### <a href="https://gainful-shawl-1b9.notion.site/mahwin-6d67ebacacc241e08b7e42b19dc8e9ed"> 📝 자세한 소개</a>
 
 ### Contact me
 
