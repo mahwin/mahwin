@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?height=300&text=Welcome%20Mahwin's%20Github!&type=Waving&fontAlignY=42&fontColor=dfe6e9&fontSize=50&animation=twinkling" style="max-width: 100%">
+<img src="https://capsule-render.vercel.app/api?height=200&text=Welcome%20Mahwin's%20Github!&type=Waving&fontAlignY=42&fontColor=dfe6e9&fontSize=50&animation=twinkling" style="max-width: 100%">
 
 ### 🥚주니어 프론트엔드 개발자 정유석입니다 !🥚  
 
@@ -43,7 +43,7 @@
 ![GITHUB](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer"/>
 
 
 
