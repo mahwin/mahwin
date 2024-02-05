@@ -37,6 +37,9 @@
 ## ⚙️ Etc
 ![GITHUB](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white)
 
+## Education
+
+네이버 부스트캠프 웹·모바일 8기 수료(2023.07.10 ~ 2023.12.15)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=footer"/>
 
