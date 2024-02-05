@@ -32,6 +32,7 @@
 ![NEST.JS](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&amp;logo=NestJs&amp;logoColor=white)
 ![JEST](https://img.shields.io/badge/-JEST-C21325?style=for-the-badge&amp;logo=JEST&amp;logoColor=white)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&amp;logo=DOCKER&amp;logoColor=white)
+![VITEST](https://img.shields.io/badge/-VITEST-ffffff?style=for-the-badge&amp;logo=VITEST&amp;logoColor=yellow)
 
 ## ⚙️ Etc
 ![GITHUB](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white)
