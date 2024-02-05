@@ -4,9 +4,10 @@
 
 ### Contact me
 
-* 📨  Email   : mahwin7085@gmail.com
-* ☎ Phone : 010-2759-7085
-* 📝 Introduce : <a href="https://gainful-shawl-1b9.notion.site/mahwin-6d67ebacacc241e08b7e42b19dc8e9ed" target="_blank" alt="이력서">자세한 소개</a>
+* 📨 Email   : mahwin7085@gmail.com
+* ☎️ Phone : 010-2759-7085
+* 🗄️ 블로그 : https://velog.io/@mahwin/posts
+* 🧑🏻 Introduce : <a href="https://gainful-shawl-1b9.notion.site/mahwin-6d67ebacacc241e08b7e42b19dc8e9ed" target="_blank" alt="이력서">자세한 소개</a>
 
 <br />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mahwin7085" />
